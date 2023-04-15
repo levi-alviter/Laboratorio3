@@ -1,0 +1,15 @@
+.steps {
+  margin-top: 3rem;
+}
+
+.steps-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem; 
+  font-size: 1.2rem;
+}
+
+.steps-list__item {
+  list-style: lower-latin;
+}
